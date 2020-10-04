@@ -1,5 +1,5 @@
 # grip_tsf_tasks 
-Prediction_using_Unsupervised_Machin_Learning
+Prediction_using_Unsupervised_Machine_Learning
 
 We have to choose the K that has minimum inter-cluster variation or total within sum of squares.(WSS)
 WSS is used to find compactness of clustering .There is no hard and fas rule to calculate the value of K that has minimum Wss
